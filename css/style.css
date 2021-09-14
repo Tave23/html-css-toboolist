@@ -31,15 +31,28 @@ body{
 
 .button-box{
   width: 70%;
+  height: 50px;
   margin: 40px auto;
   background-color: white;
+  padding: 15px;
+  padding-left: 80px;
+  border-radius: 5px;
 }
 
-.button1{
-  background-color: #47ADF1;
+.button{
   padding: 5px 10px;
+  border-radius: 5px;
+  
+}
+
+#button1{
+  background-color: #47ADF1;
   color: white;
   border: none;
-  border-radius: 5px;
+}
 
+#button2{
+  background-color: #FFFFFF;
+  color: #CBD1D5;
+  border: 1px solid #D5D9DC;
 }
