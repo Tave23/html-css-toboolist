@@ -56,3 +56,52 @@ body{
   color: #CBD1D5;
   border: 1px solid #D5D9DC;
 }
+
+.task{
+  width: 70%;
+  background-color: white;
+  margin: auto;
+  padding-left: 80px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.task h3{
+  color: #444850;
+}
+
+.singletask{
+  margin-bottom: 12px;
+}
+
+.info{
+  padding: 5px 10px;
+  border-radius: 10px;
+  font-size: 11px;
+  margin-left: 5px;
+  color: white;
+}
+
+#editorial{
+  background-color: #47ADF1;
+}
+
+#goals{
+  background-color: #9C72E4 ;
+}
+
+#recruiting{
+  background-color: #64C0A9;
+}
+
+#mobile{
+  background-color: #F29E33;
+}
+
+#sales{
+  background-color: #B0C926;
+}
+
+#website{
+  background-color: #D863A1;
+}
