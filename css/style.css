@@ -6,6 +6,7 @@
 
 body{
   background-color: #F6F8F9;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .intestazione{
@@ -23,7 +24,6 @@ body{
 #toboolist{
   display: inline;
   font-size: 50px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding-left: 20px;
   vertical-align: middle;
 }
@@ -43,7 +43,7 @@ body{
 .button{
   padding: 5px 10px;
   border-radius: 5px;
-  
+  cursor: pointer;
 }
 
 #button1{
